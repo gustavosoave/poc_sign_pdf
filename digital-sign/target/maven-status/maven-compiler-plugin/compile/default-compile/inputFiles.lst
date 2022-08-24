@@ -1,0 +1,8 @@
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/controller/ContractController.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/model/Contract.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/service/ConvertService.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/controller/SignController.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/config/AWSConfig.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/service/S3Service.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/DigitalSignApplication.java
+/home/soave/work/pocs/digital-sign/src/main/java/com/recarga/digitalsign/service/SignService.java
